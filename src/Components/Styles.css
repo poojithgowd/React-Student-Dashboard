@@ -1,0 +1,16 @@
+.abc{
+    /* margin: 0; */
+    font-family: 'Arial', sans-serif;
+    background-color: #352d5c;
+    color: hsl(0, 0%, 100%);
+}
+
+
+input{
+    border: none;
+}
+.bg{
+    background-color: #58427c;
+background-image: linear-gradient(316deg, #58427c 0%, #746cc0 74%);
+}
+
