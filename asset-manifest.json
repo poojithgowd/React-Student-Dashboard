@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Student-Dashboard/static/css/main.230da9be.css",
-    "main.js": "/React-Student-Dashboard/static/js/main.1faf08cd.js",
+    "main.js": "/React-Student-Dashboard/static/js/main.a70c6f32.js",
     "static/media/TpCYeB-winner-clipart-hd-logo.png": "/React-Student-Dashboard/static/media/TpCYeB-winner-clipart-hd-logo.d4294d90b2d73736f47e.png",
     "static/media/student (1).png": "/React-Student-Dashboard/static/media/student (1).96627c65c43dfc7a63c2.png",
     "static/media/student (2).png": "/React-Student-Dashboard/static/media/student (2).d7560a44c432aea6c197.png",
@@ -12,10 +12,10 @@
     "static/media/Flag-Australia.webp": "/React-Student-Dashboard/static/media/Flag-Australia.40065ace2d8a55f1fd27.webp",
     "index.html": "/React-Student-Dashboard/index.html",
     "main.230da9be.css.map": "/React-Student-Dashboard/static/css/main.230da9be.css.map",
-    "main.1faf08cd.js.map": "/React-Student-Dashboard/static/js/main.1faf08cd.js.map"
+    "main.a70c6f32.js.map": "/React-Student-Dashboard/static/js/main.a70c6f32.js.map"
   },
   "entrypoints": [
     "static/css/main.230da9be.css",
-    "static/js/main.1faf08cd.js"
+    "static/js/main.a70c6f32.js"
   ]
 }
