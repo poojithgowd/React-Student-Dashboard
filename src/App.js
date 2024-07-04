@@ -31,15 +31,15 @@ const App = () => {
     </div>
    <Card2/>
 
-
-    <div className='card3 overflow-hidden ' style={{color:"white", width:"30%",height:"90vh",backgroundColor:"#FECD09" ,borderRadius:"0px 15px 15px"}}  >
+   <div></div>
+    <div className='card3 ' style={{color:"white", width:"30%",height:"",backgroundColor:"#FECD09" ,borderRadius:"0px 15px 15px"}}  >
     <img src={cup} alt="" style={{width:"80px",height:"50px",position:'absolute',marginLeft:"-40px", marginTop:"30px"}} />
 
       <h3 className='p-4 ms-5' style={{color:"black"}}><strong>Leader-Board</strong></h3>
 
       <div  >
         <div className='d-flex justify-content-around' style={{color:"black"}}>
-       <div className='pt-4 '>90%</div>
+       <div className='pt-3 '>90%</div>
        <div>100%</div>
        <div className='pt-4'>80%</div>
        </div>
@@ -73,7 +73,7 @@ const App = () => {
          </div>
          </div>
          
-    <div className=' pt-2 d-flex ' style={{backgroundColor:"#3b3461"}}>
+    <div className=' pt-3 d-flex ' style={{backgroundColor:"#3b3461"}}>
       <div className='ps-5' >
       <img src={star} alt="" style={{width:"40px", height:"40px",position:'absolute'}} className='' /> <div className='p-2 ps-3'>4</div>
       </div>
@@ -87,7 +87,7 @@ const App = () => {
       <div className='ps-4 pt-2'>Sonia</div>
       <div className='ms-auto pe-5 pt-2'>60%</div>
     </div>
-     <div className=' pt-4 d-flex' style={{backgroundColor:"#3b3461"}}>
+     <div className=' pt-3 d-flex' style={{backgroundColor:"#3b3461"}}>
       <div className='ps-5' >
       <img src={star} alt="" style={{width:"40px", height:"40px",position:'absolute'}} className='' /> <div className='p-2 ps-3'>6</div>
       </div>
@@ -108,11 +108,11 @@ const App = () => {
       <div className='ps-4 pt-2'>Lilly</div>
       <div className='ms-auto pe-5 pt-2'>30%</div>
     </div>
-    <div className=' pt-3 d-flex' style={{backgroundColor:"#3b3461",borderRadius:"0px 0px 2px"}}>
+    <div className=' pt-3 d-flex' style={{backgroundColor:"#3b3461"}}>
       <div className='ps-5' >
       <img src={star} alt="" style={{width:"40px", height:"40px",position:'absolute'}} className='' /> <div className='p-2 ps-3'>9</div>
       </div>
-      <div className='ps-4 pt-2'>Lovely</div>
+      <div className='ps-4 pt-2'>yogesh</div>
       <div className='ms-auto pe-5 pt-2'>25%</div>
     </div>
       

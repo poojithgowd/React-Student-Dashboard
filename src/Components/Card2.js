@@ -12,9 +12,9 @@ const Card2 = () => {
     event.currentTarget.style.transform = 'rotate(0deg)';
   };
   return (
-    <div className='cards2 text-center overflow-hidden ' style={{color:"white", width:"76%",height:"90vh"}}  >
-    <h3 className='p-4 '><strong>My Peers</strong><span className='' style={{marginLeft:"250px"}}><input type="text" placeholder='🔍 Search' style={{backgroundColor:'#352d5c'}}/></span></h3>
-    <div className='d-flex flex-wrap 
+    <div className='cards2 text-center ' style={{color:"white", width:"76%",height:"90vh"}}  >
+    <h3 className='pt-4 '><strong>My Peers</strong><span className='' style={{marginLeft:"250px"}}><input type="text" placeholder='🔍 Search' style={{backgroundColor:'#352d5c'}}/></span></h3>
+    <div className='d-flex flex-wrap mt-3
     ' style={{marginLeft:"100px"}}>
       <div><div className='border rounded-4  pt-3 m-3' style={{width:"200px",backgroundColor:'rgba(255, 255, 255, 0.1)',transition: 'transform 0.2s' }}
      onMouseEnter={handleMouseEnter}
