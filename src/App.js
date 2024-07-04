@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div className='container-fluid bg p-2 ' >
    <div className='border m-3 rounded-4 d-flex abc overflow-hidden'>
-    <div className='cards1 text-center' style={{color:"white", width:"12%",height:"90vh", backgroundColor:'rgba(255, 255, 255, 0.05)'}} >
+    <div className='cards1 text-center' style={{color:"white", width:"12%",height:"", backgroundColor:'rgba(255, 255, 255, 0.05)'}} >
       <h3 className='p-4'><strong>DEL</strong></h3>
       <div><a href=""><img src={learn} alt="no image" width={"30%"} className='mx-5'/></a></div>
       <p className='px-4'>MY learning plan</p>
@@ -73,6 +73,7 @@ const App = () => {
          </div>
          </div>
          
+
     <div className=' pt-3 d-flex ' style={{backgroundColor:"#3b3461"}}>
       <div className='ps-5' >
       <img src={star} alt="" style={{width:"40px", height:"40px",position:'absolute'}} className='' /> <div className='p-2 ps-3'>4</div>
